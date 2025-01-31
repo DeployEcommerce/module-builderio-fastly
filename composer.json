@@ -1,5 +1,5 @@
 {
-    "name": "deploy-ecommerce/module-builderio-fastly",
+    "name": "deployecommerce/module-builderio-fastly",
     "version": "1.0.0",
     "description": "A magento 2 extensions that renders Builder.io content.",
     "type": "magento2-module",
